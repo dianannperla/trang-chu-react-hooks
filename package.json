@@ -9,10 +9,10 @@
     "react-scripts": "^4.0.3"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "react-scripts start",  // Runs the app in development mode
+    "build": "react-scripts build",  // Bundles the app into static files for production
+    "test": "react-scripts test",    // Starts the test runner
+    "eject": "react-scripts eject"   // Removes the single build dependency from your project
   },
   "eslintConfig": {
     "extends": [
